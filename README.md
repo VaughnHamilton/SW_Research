@@ -122,6 +122,7 @@
 7. [Client Desires and the Price of Seduction: Exploring the Relationship Between Independent Escorts’ Marketing and Rates](https://pubmed.ncbi.nlm.nih.gov/31050563/)
 8. [Challenging the Invisibility of Sex Work in Digital Labour Politics](https://doi.org/10.1177/0141778919879749)
 9. [Aligned: Sex Workers' Lessons for the Gig Economy](https://doi.org/10.36643/mjrl.26.2.aligned)
+10. [Inside the X-Rated World of “Premium” Social Media Accounts](https://doi.org/10.1007/978-3-030-60975-7_14)
 
 
 ## Sex work // Labour : other 
@@ -132,6 +133,9 @@
 
 ## Sex work // Laws : briefing papers 
 3. [Erased: The impact of FOSTA-SESTA and the removal of Backpage on sex workers](https://hackinghustling.org/erased-the-impact-of-fosta-sesta-2020/)
+
+## Sex work // Health, Stigma 
+1.[Prostitution stigma and its effect on the working conditions, personal lives, and health of sex workers]
 
 ## Sex work : Clients : peer reviewed / academic 
 1. [The construction of intimacy in long-term commercial relationships in Sweden](https://doi.org/10.1080/13691058.2020.1857844)
