@@ -78,14 +78,19 @@
 9. [Working it: the professionalization of amateurism in digital adult entertainment](http://dx.doi.org/10.1080/14680777.2017.1303622)
 10. [Sex Work and Social Media: Policy, Identity, and Privacy in Networked Publics and Counterpublics](https://csalateral.org/issue/8-1/sex-work-social-media-networked-publics-counterpublics-nelson/)
 11. [On Our Own Terms: The Working Conditions of Internet-Based Sex Workers in the UK](https://doi.org/10.5153/sro.4152)
-12. [Platforms, sex work and their interconnectedness](doi:10.1177/13634607211023013) 
-13. [Sex, power and platform governance](DOI: 10.1080/23268743.2021.1974312) 
-14. [CENSORING SEX: PAYMENT PLATFORMS’ REGULATION OF SEXUAL EXPRESSION](doi:10.1108/S1521-613620210000026005) 
+12. [Platforms, sex work and their interconnectedness](https://doi.org/10.1177/13634607211023013) 
+13. [Sex, power and platform governance](https://doi.org/10.1080/23268743.2021.1974312) 
+14. [CENSORING SEX: PAYMENT PLATFORMS’ REGULATION OF SEXUAL EXPRESSION](https://doi.org/10.1108/S1521-613620210000026005) 
 15. [Flexi(nse)curity in adult webcamming: Romanian women’s experiences selling digital sex services under platform capitalism](https://doi.org/10.1080/0966369X.2021.1878114)
 
 
 ## Sex workers // Tech : briefing papers 
 1. [An Invisible Workforce: An Investigation into the Support Needs of Online Sex Workers ](https://www.research.manchester.ac.uk/portal/en/publications/an-invisible-workforce(f7761e43-afd5-4786-b7f1-d18c7028e64f).html)
+
+
+## Onlyfans : peer reviewed / academic 
+1. [The bodies of the (digitised) body Experiences of sexual(ised) work on OnlyFans](https://doi.org/10.7146/mediekultur.v37i71.122642) 
+2. [OnlyFans as gig-economy work: a nexus of precarity and stigma](https://doi.org/10.1080/23268743.2022.2096682)
 
 
 ## Sex work // Labour : peer reviewed / academic 
@@ -112,7 +117,7 @@
 
 ## Sex work : Research Methods : peer reviewed / academic 
 1. [The challenges of anthropological research among sex workers and victims of domestic violence in times of the Covid-19 pandemic](https://doi.org/10.11143/fennia.99336) 
-2. [Conducting rapid qualitative research to support sex workers’ health and social needs in the face of COVID-19: capitalising on stakeholder networks from the HIV response in Singapore to drive policymaking](doi: 10.1007/s10508-021-01951-8) 
+2. [Conducting rapid qualitative research to support sex workers’ health and social needs in the face of COVID-19: capitalising on stakeholder networks from the HIV response in Singapore to drive policymaking](https://pubmed.ncbi.nlm.nih.gov/32661069/) 
 
 
 
