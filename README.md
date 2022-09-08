@@ -27,7 +27,7 @@
 23. [Migrant sex workers left behind during COVID-19 pandemic](https://doi.org/10.17269/s41997-020-00377-4)
 24. [Covid-19, policing, and the exacerbation of pre-existing inequalities](https://socialsciences.mcmaster.ca/globalization/research/publications/working-papers/2020/ighc-working-paper-covid-19_urgentresponses-1.pdf)
 25. [Reinforcing Authentic Intimacy? Relationships between an Escort Boy and His Male Clients in the Spectre of COVID-19 in France](https://doi.org/10.3167/aia.2021.280105)
-26. [Sexual health among Kenyan male sex workers in a time of COVID-19.](doi:10.1177/0017896920950774)
+26. [Sexual health among Kenyan male sex workers in a time of COVID-19.](https://doi.org/10.1177/0017896920950774)
 27. [Life in the Balance: Young Female Sex Workers in Kenya Weigh the Risks of COVID-19 and HIV](https://pubmed.ncbi.nlm.nih.gov/33389320/)
 28. [“It went through the roof”: an observation study exploring the rise in PrEP uptake among Zimbabwean female sex workers in response to adaptations during Covid‐19](https://pubmed.ncbi.nlm.nih.gov/34713613/)
 29. [Sex Workers and Livelihoods under the COVID-19 Pandemic in the City of Masvingo, Zimbabwe](https://www.researchgate.net/publication/354803763_Sex_Workers_and_Livelihoods_under_the_COVID-19_Pandemic_in_the_City_of_Masvingo_Zimbabwe)
@@ -35,15 +35,15 @@
 31. [The Resilience of Female Sex Workers in the Wake of COVID-19 in Zimbabwe](https://doi.org/10.1177%2F00219096211013411)
 32. [Male Sex Workers Selling Physical Sex during the COVID-19 Pandemic in Portugal: Motives, Safer Sex Practices, and Social Vulnerabilities](https://doi.org/10.3390/soc11040118)
 33. [PSYCHOSOCIAL CONSEQUENCES OF COVID-19 ON SEX WORKERS: A GLOBAL PERSPECTIVE](http://www.psychiatria-danubina.com/UserDocsImages/pdf/dnb_vol32_no3-4/dnb_vol32_no3-4_590.pdf)
-34. [Community action for people with HIV and sex workers during the COVID-19 pandemic in India](https://www.researchgate.net/publication/344407696_Community_action_for_people_with_HIV_and_sex_workers_during_the_COVID-19_pandemic_in_India)
+34. [Community action for people with HIV and sex workers during the COVID-19 pandemic in India](http://www.who-seajph.org/text.asp?2020/9/2/104/294302)
 35. [Sex Workers and Syndemics: A Population Vulnerable to HIV and COVID-19.](https://doi.org/10.1007/s10508-021-01940-x)
 36. [Sex Work, Essential Work: A Historical and (Necro)Political Analysis of Sex Work in Times of COVID-19 in Brazil](https://doi.org/10.3390/socsci10010002) 
 37. [Double Jeopardy: Maintaining Livelihoods or Preserving Health? The Tough Choices Sex Workers Faced during the COVID-19 Pandemic](https://pubmed.ncbi.nlm.nih.gov/34235993/) 
-38. [COVID-19 Prevention and Protecting Sex Workers: A Call to Action](doi:10.1007/s10508-020-01849-x) 
+38. [COVID-19 Prevention and Protecting Sex Workers: A Call to Action](https://doi.org/10.1007/s10508-020-01849-x) 
 39. [Re-imagining the situation of sex workers after the Covid- 19 Pandemic](http://dx.doi.org/10.2139/ssrn.3892632)
-40. [The Impact of the Coronavirus Disease (COVID-19) on the Health and Social Needs of Sex Workers in Singapore](doi: 10.1007/s10508-021-01951-8)
+40. [The Impact of the Coronavirus Disease (COVID-19) on the Health and Social Needs of Sex Workers in Singapore](https://doi.org/10.1007/s10508-021-01951-8)
 41. [Impact of COVID-19 on Female Sex Workers in Africa: Evidence from a Cohort Study in Senegal](http://dx.doi.org/10.2139/ssrn.3710613) 
-42. [Sex Workers Should Be Included in COVID-19 Vaccination Efforts.](doi: 10.4269/ajtmh.21-0438) 
+42. [Sex Workers Should Be Included in COVID-19 Vaccination Efforts.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8641315/)
 
 
 
