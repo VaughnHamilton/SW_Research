@@ -82,15 +82,34 @@
 13. [Sex, power and platform governance](https://doi.org/10.1080/23268743.2021.1974312) 
 14. [CENSORING SEX: PAYMENT PLATFORMS’ REGULATION OF SEXUAL EXPRESSION](https://doi.org/10.1108/S1521-613620210000026005) 
 15. [Flexi(nse)curity in adult webcamming: Romanian women’s experiences selling digital sex services under platform capitalism](https://doi.org/10.1080/0966369X.2021.1878114)
+16. [Disadvantaged in the American-dominated internet'': Sex, Work, and Technology](https://doi.org/10.1145/3411764.3445378)
+17. [Sex work in a digital era](https://doi.org/10.1111/soc4.12282)
+18. [" It's stressful having all these phones": Investigating Sex Workers' Safety Goals, Risks, and Practices Online](https://www.usenix.org/conference/usenixsecurity21/presentation/mcdonald)
+19. [Automating whorephobia: sex, technology and the violence of deplatforming: An interview with Hacking//Hustling](https://doi.org/10.1080/23268743.2021.1947883)
+20. [The use of information and communication technologies by sex workers to manage occupational health and safety: Scoping review](https://www.jmir.org/2021/6/e26085/)
+21. [Technologies and social justice outcomes in sex work charities: Fighting stigma, saving lives](https://doi.org/10.1145/3025453.3025615)
+22. [Technologies for social justice: Lessons from sex workers on the front lines](https://doi.org/10.1145/3290605.3300882)
 
 
 ## Sex workers // Tech : briefing papers 
 1. [An Invisible Workforce: An Investigation into the Support Needs of Online Sex Workers ](https://www.research.manchester.ac.uk/portal/en/publications/an-invisible-workforce(f7761e43-afd5-4786-b7f1-d18c7028e64f).html)
+2. [Posting into the void: studying the impact of shadowbanning on sex workers and activists](https://hackinghustling.org/posting-into-the-void-content-moderation/)
 
 
 ## Onlyfans : peer reviewed / academic 
 1. [The bodies of the (digitised) body Experiences of sexual(ised) work on OnlyFans](https://doi.org/10.7146/mediekultur.v37i71.122642) 
 2. [OnlyFans as gig-economy work: a nexus of precarity and stigma](https://doi.org/10.1080/23268743.2022.2096682)
+3. [Social Support in Digital Patronage: OnlyFans Adult Content Creators as an Online Community](https://doi.org/10.1145/3491101.3519836)
+4. [Digital Patronage Platforms](https://doi.org/10.1145/3406865.3418332)
+5. [Interdependent Platforms: Onlyfans As Nsfw Social Media Layer](https://doi.org/10.5210/spir.v2021i0.12064)
+6. [Competing platform imaginaries of NSFW content creation on OnlyFans](https://doi.org/10.1080/23268743.2021.1974927)
+7. [Cosplay on Demand? Instagram, OnlyFans, and the Gendered Fantrepreneur](https://doi.org/10.1177/20563051211042397)
+8. [Sex, Love, and OnlyFans: How the Gig Economy Is Transforming Online Sex Work](https://www.proquest.com/openview/4a8ed75483b034aaebd728bb278b11a3/1?pq-origsite=gscholar&cbl=18750&diss=y)
+9. [ONLINE SEX WORK IN THE TIME OF COVID-19](https://ir.library.illinoisstate.edu/cgi/viewcontent.cgi?article=1404&context=rsp_urs)
+10. [Sexual Attitudes and Characteristics of OnlyFans Users](https://doi.org/10.1007/s10508-022-02329-0)
+11. [Taboo to Trendy: How Is Onlyfans Breaking Boundaries and Creating Narratives](https://www.proquest.com/openview/fefbb7ee16e09b9ba1ea6c8929943327/1?pq-origsite=gscholar&cbl=18750&diss=y)
+12. [Netporn and the Amateur Turn on OnlyFans](https://doi.org/10.1007/978-3-030-11797-9_5)
+
 
 
 ## Sex work // Labour : peer reviewed / academic 
@@ -102,6 +121,7 @@
 6. [The Limits of Labelling: Incidental Sex Work Among Gay, Bisexual, and Queer Young Men on Social Media](https://doi.org/10.1007/s13178-021-00603-9)
 7. [Client Desires and the Price of Seduction: Exploring the Relationship Between Independent Escorts’ Marketing and Rates](https://pubmed.ncbi.nlm.nih.gov/31050563/)
 8. [Challenging the Invisibility of Sex Work in Digital Labour Politics](https://doi.org/10.1177/0141778919879749)
+9. [Aligned: Sex Workers' Lessons for the Gig Economy](https://doi.org/10.36643/mjrl.26.2.aligned)
 
 
 ## Sex work // Labour : other 
@@ -109,6 +129,9 @@
 
 ## Sex work // Laws and Health : peer reviewed / academic 
 1. [Cisgender and Transgender Sex Workers from Colombia: The Relation Between Burnout Syndrome and Working Conditions in a Prohibitionist-Regulatory Law.](https://doi.org/10.1007/s13178-020-00475-5)
+
+## Sex work // Laws : briefing papers 
+3. [Erased: The impact of FOSTA-SESTA and the removal of Backpage on sex workers](https://hackinghustling.org/erased-the-impact-of-fosta-sesta-2020/)
 
 ## Sex work : Clients : peer reviewed / academic 
 1. [The construction of intimacy in long-term commercial relationships in Sweden](https://doi.org/10.1080/13691058.2020.1857844)
