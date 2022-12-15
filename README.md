@@ -44,6 +44,7 @@
 40. [The Impact of the Coronavirus Disease (COVID-19) on the Health and Social Needs of Sex Workers in Singapore](https://doi.org/10.1007/s10508-021-01951-8)
 41. [Impact of COVID-19 on Female Sex Workers in Africa: Evidence from a Cohort Study in Senegal](http://dx.doi.org/10.2139/ssrn.3710613) 
 42. [Sex Workers Should Be Included in COVID-19 Vaccination Efforts.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8641315/)
+43. [The effects of COVID-19 on the health and socio-economic security of sex workers in Nairobi, Kenya: Emerging intersections with HIV](https://pubmed.ncbi.nlm.nih.gov/32459578/)
 
 
 
