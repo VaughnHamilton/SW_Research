@@ -60,6 +60,7 @@
 4. [Migrant Sex Workers and the Pandemic: Magnifying Inequality and Discrimination](https://lawofwork.ca/migrant-sex-workers/)
 5. [The impact of COVID-19 on sex workers](https://blogs.lse.ac.uk/covid19/2020/06/08/the-impact-of-covid-19-on-sex-workers/)
 6. [The precarisation of sex workers during the COVID-19 pandemic](https://www.leidenlawblog.nl/articles/the-precarisation-of-sex-workers-during-the-covid-19-pandemic) 
+7. [THE IMPACT OF THE COVID-19 PANDEMIC AMONG SEX WORKERSIN CENTRAL AND EASTERN EUROPE AND CENTRAL ASIA (CEECA)](https://swannet.org/resources/the-impact-of-the-covid-19-pandemic-among-sex-workers-in-central-and-eastern-europe-and-central-asia/?fbclid=IwAR2dGzld5n8uxRXT7FYyAWDpUaU73YugMabUQ1e8PX1Os2NDCzNLfg_V7qY)
 
 
 
